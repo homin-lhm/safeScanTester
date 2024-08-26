@@ -1,0 +1,18 @@
+sql
+SQL
+near
+MySQL
+mysql
+1005
+1045
+1064
+1142
+1146
+1290
+1451
+1062
+1093
+1100
+1136
+1366
+Access denied for user

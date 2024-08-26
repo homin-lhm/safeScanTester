@@ -1,0 +1,7 @@
+create_scan:
+  "type": "object"
+  "properties":
+    "order_id": { "type": "string", "maxLength": 10 }
+    "address": { "type": "string", "maxLength": 50 }
+    "payout": { "type": "integer" }
+  "required": [ "file"]
