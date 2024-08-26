@@ -28,10 +28,10 @@ pool = PooledDB(
     setsession=[],  # 在连接中执行的 sql 命令
     maxshared=1,
     ping=0,  # ping 数据库服务器的时间间隔，0 表示不 ping
-    host='134.175.128.151',
+    host='134.1xx.1xx.xxx',
     port=3306,
     user='root',
-    password='3558hominT.',
+    password='xxxx.',
     database='apiSafeScan',
     charset='utf8mb4'
 )
